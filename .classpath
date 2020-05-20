@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/ivanm/Documents/Java/javax.ws.rs-api-2.0.jar/javax.ws.rs-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanm/Documents/Java/javax.json.bind-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanm/Documents/Java/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanm/Documents/Java/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanm/Documents/Java/java-json.jar/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanm/eclipse-workspace/wsRsTest1/WebContent/WEB-INF/lib/sboapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanm/eclipse-workspace/wsRsTest1/WebContent/WEB-INF/lib/sbowrapper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanm/Documents/Java/Librerias SAP/jasypt-1.9.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_151 (2)"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="lib" path="C:/Users/ivanm/Documents/Java/jersey-core-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanm/Documents/Java/mimepull-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanm/Documents/Java/jersey-multipart-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanm/Documents/Java/commons-net-3.6-bin/commons-net-3.6/commons-net-3.6.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
